@@ -5,7 +5,7 @@
        <br><br><br> <br><br><br><br> <div class="container">
             <div class="heading">
                <span class="icon-logo"><img src="images/icon-logo.png" alt="#"></span>
-               <h2>Inscriptions</h2>
+               <h2>Enregistrement</h2>
             </div>
          </div>
      
