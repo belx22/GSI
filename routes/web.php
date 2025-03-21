@@ -35,6 +35,10 @@ Route::get('/register', function () {
     return view('register');
 });
 
+Route::get('/registerDanny', function () {
+    return view('register');
+});
+
 Route::resource('articles', ArticleController::class);
 
 
